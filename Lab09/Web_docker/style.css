@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+body.index {
+    background-color: rgba(0, 81, 188, 255);
+}
+
+.para1 {
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+.para2 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.image {
+    float:left;
+    margin-top: auto;
+    padding: 15px;
+}
+
+.image2 {
+    float:right;
+    padding: 5px;
+}
+
+#paragraph {
+    border-style: solid;
+    border-width: 0px;
+    padding: 10px;
+    width: 1000px; 
+    margin: auto;
+}
+
+
